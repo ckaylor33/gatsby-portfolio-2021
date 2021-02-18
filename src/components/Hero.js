@@ -33,6 +33,11 @@ const Hero = () => {
               contact me
             </Link>
             <SocialLinks />
+            <div class="scroll-downs">
+              <div class="mousey">
+                <div class="scroller"></div>
+              </div>
+            </div>
           </div>
         </article>
         <Image fluid={fluid} className="hero-img" />
